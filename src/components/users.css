@@ -1,0 +1,26 @@
+.input-felt {
+  gap: 10px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+input {
+  padding: 5px 10px;
+}
+
+.user-card {
+  border: 1px solid whitesmoke;
+  align-self: center;
+  max-width: 200px;
+  margin-top: 10px;
+  background-color: rgb(255, 174, 0);
+  color: black;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: rgb(212, 212, 214);
+  color: black;
+}
