@@ -9,7 +9,7 @@ export default function CookieClicker() {
       <button onClick={() => setCount(count + 1)}>
         <img
           className="cookie-img"
-          src="/cookie-1-1.png"
+          src="cookie-1-1.png"
           alt="Image of a Cookie"
         />
       </button>
